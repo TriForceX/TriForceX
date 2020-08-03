@@ -1,4 +1,4 @@
-## Hi, i'm TriForce ![link](https://user-images.githubusercontent.com/16083854/88866272-2ad58980-d1d8-11ea-826a-bbf64cddd3e9.gif)
+## Hi, i'm TriForce ![](https://user-images.githubusercontent.com/16083854/88866272-2ad58980-d1d8-11ea-826a-bbf64cddd3e9.gif)
 
 [![Discord](https://img.shields.io/badge/Discord-TriForce%238785-7289DA.svg?logo=discord&style=flat)](https://discord.com)
 [![Gmail](https://img.shields.io/badge/Mail-triforce%40gznetwork%2Ecom-red?style=flat&logo=gmail&logoColor=white)](mailto:triforce@gznetwork.com)
