@@ -4,5 +4,6 @@
 [![Steam](https://img.shields.io/badge/Steam-TriForce__JK2-blue?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/triforce_jk2)
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-TriForcePianist-orange?style=flat&logo=soundcloud&logoColor=white)](https://soundcloud.com/triforcepianist)
 [![DeviantArt](https://img.shields.io/badge/DeviantArt-TriForceDesigner-brightgreen?style=flat&logo=deviantart&logoColor=white)](https://deviantart.com/triforcedesigner)
+[![KoFi](https://img.shields.io/badge/Ko--Fi-TriForce-red?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/triforce)
 
 Welcome to my profile! I'm a graphic designer, web developer, part-time musician and full-time pizza taster. You can visit my personal website [**here**](https://triforce.dev)!
