@@ -6,4 +6,4 @@
 [![DeviantArt](https://img.shields.io/badge/DeviantArt-TriForceDesigner-brightgreen?style=flat&logo=deviantart&logoColor=white)](https://deviantart.com/triforcedesigner)
 [![Twitch](https://img.shields.io/badge/Twitch-TriForceStreamer-9147ff?style=flat&logo=twitch&logoColor=white)](https://www.twitch.tv/TriForceStreamer)
 
-Welcome to my profile! I'm a graphic designer, web developer, part-time musician and full-time jedi knight. You can visit my personal website [**here**](https://triforce.dev)!
+Welcome to my profile! I'm a graphic designer, web developer, part-time musician and full-time pizza tester. You can visit my personal website [**here**](https://triforce.dev)!
