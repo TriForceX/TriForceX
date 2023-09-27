@@ -1,4 +1,4 @@
-## Hi, i'm TriForce ![](https://user-images.githubusercontent.com/16083854/88866272-2ad58980-d1d8-11ea-826a-bbf64cddd3e9.gif)
+## Hi, i'm TriForce [![](https://user-images.githubusercontent.com/16083854/88866272-2ad58980-d1d8-11ea-826a-bbf64cddd3e9.gif)](https://user-images.githubusercontent.com/16083854/88866272-2ad58980-d1d8-11ea-826a-bbf64cddd3e9.gif)
 
 [![Discord](https://img.shields.io/badge/Discord-@TriForce.Dev-5865F2.svg?logo=discord&style=flat&logoColor=white)](https://discord.gznetwork.com)
 [![Steam](https://img.shields.io/badge/Steam-TriForce__JK2-blue?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/TriForce_JK2)
